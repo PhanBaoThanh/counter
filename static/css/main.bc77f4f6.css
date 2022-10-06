@@ -1,0 +1,2 @@
+.App{align-items:center;display:flex;flex-direction:column;height:100vh;justify-content:center;width:100vw}.App .header{font-weight:600}.App .header,.App .number{font-size:70px}.App .btns{display:flex;justify-content:space-around}.App .btns .btn{border:2px solid #000;border-radius:8px;color:#000;cursor:pointer;font-size:16px;letter-spacing:4px;margin:0 12px;padding:8px;transition:.2s;-webkit-user-select:none;user-select:none}.App .btns .btn:hover{background-color:#000;color:#fff}
+/*# sourceMappingURL=main.bc77f4f6.css.map*/
